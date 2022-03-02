@@ -6,4 +6,4 @@ Um contador com as funções de aumentar, dimuir e resetar uma contagem de núme
 
 ### The result of the project can be seen below:
 
-![](https://ibb.co/GP6bjFG.jpg)
+![](https://i.ibb.co/vzFK8Df/contador.jpg)
